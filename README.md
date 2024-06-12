@@ -1,5 +1,12 @@
 # Entry-Level-Positions
 
+The positions listed here
+
+**Do not explicitly require professional software engineering experience or work experience in job qualifications.**
+
+If you are a 2025 new graduate, you may want to explore [2025-New-Grad-Positions](https://github.com/Education-Victory/2025-New-Grad-Positions) repository specifically for more positions.
+
+Feel free to submit issue or PR 😄
 
 | Company      | Role          | Location    |  Note                         | Updated Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
@@ -28,4 +35,3 @@
 | Waabi     | <ul><li>[Software Engineer](https://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9)</li><li>[Security Engineer, Infrastructure](https://scale.com/careers/4430140005)</li><li>[Software Engineer, Web Tools](https://jobs.lever.co/waabi/19d19832-ab1c-4be5-8972-879f4fc2b1a8)</li></ul>   | Toronto, ON, San Francisco, CA, Remote Canada, Remote US | | 2024-06-12     |
 | Wayfair     | <ul><li>[Software Engineer I - Summer 2024](https://www.wayfair.com/careers/job/software-engineer-i---summer-----/6963112002)</li><li>[Associate Software Engineer, Storefront](https://www.wayfair.com/careers/job/associate-software-engineer--storefront/7479527002)</li></ul>   |  Austin, Texas, Boston, Massachusetts | | 2024-06-12     |
 | Whatnot     | <ul><li>[Software Engineer, Discovery (Search)](https://boards.greenhouse.io/whatnot/jobs/5154575004)</li><li>[Software Engineer, Ads](https://boards.greenhouse.io/whatnot/jobs/5131746004)</li></ul>   |  Multiple Locations | | 2024-06-12     |
-
