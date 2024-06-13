@@ -1,21 +1,15 @@
 # Entry-Level-Positions
 
 ## Intro
-The position listed here **do not explicitly require professional software engineering experience (work experience) in job qualifications.**, You do not need several years of professional work experience to qualify. Relevant experience in software development, such as internships, projects, or academic work, is sufficient.
+The position listed here does not explicitly require professional software engineering experience (work experience) in the job qualifications. Relevant experience such as:
 
-For example: 
+- Internships: Multiple internships that cumulatively add up to the required experience.
+- Personal projects: Development and maintenance of your own mobile applications available on app stores with a substantial user base.
+- Open-source contributions: Significant contributions to well-known open-source mobile projects.
+- Freelance work: Independent mobile development projects for clients.
+- Contract work: Short-term contracts or consulting roles focused on mobile development.
 
-> **Basic Qualifications**
-
-> - Bachelor’s Degree in Computer Science, Electrical Engineering, or a related technical field.
-> - 3+ years of experience in mobile software development, with a strong emphasis on networking.
-> 
-> **Preferred Qualifications**
-
-> - Master’s Degree in Computer Science or a related field.
-> - 4+ years of professional mobile development experience, with at least 2 years focused on networking.
-
-It does not require you to have 4 years of work experience to apply, you only need 3 years of experience in software development.
+may be considered equivalent experience.
 
 ## Position List
 
@@ -37,11 +31,11 @@ It does not require you to have 4 years of work experience to apply, you only ne
 | Oracle     | <ul><li>[Software Engineer - Oracle Cloud Infrastructure](https://careers.oracle.com/jobs/#en/sites/jobsearch/job/229276/?utm_medium=jobshare)</li></ul> | Multiple Locations |    | 2024-06-08     |
 | Ramp     | <ul><li>[Software Engineer - Frontend](https://jobs.ashbyhq.com/ramp/4e64ab86-4e30-403b-b1b9-41dc052570ce)</li><li>[Software Engineer - Android](https://jobs.ashbyhq.com/ramp/68504a66-66a2-4f89-a27d-7dce18e534fe)</li><li>[Software Engineer - Forward Deployed](https://jobs.ashbyhq.com/ramp/49af05e6-c962-4a3c-867b-57a8ee5bbd53)</li></ul>   | New York, San Francisco, Remote, Miami  |    | 2024-03-14     |
 | Rippling     | <ul><li>[Software Engineer II, Backend - HRIS](https://ats.rippling.com/rippling/jobs/6a7ced0e-001f-476f-9bb4-860e203adad2)</li><li>[Software Engineer II, Backend - Time Products](https://ats.rippling.com/rippling/jobs/7ee630fb-40f4-4c49-a964-fdca5abe90ed)</li></ul>   |San Francisco, CA   | Experience in backend product engineering, Strong CS/algorithms fundamentals   | 2024-06-12     |
-| Robinhood     | <ul><li>[Software Engineer - Capacity Engineering and Analysis](https://boards.greenhouse.io/robinhood/jobs/5849383)</li><li>[Software Developer - Reliability](https://boards.greenhouse.io/robinhood/jobs/6022269)</li></ul>   |USA, Canada   |    | 2024-06-12     |
-| Scale AI     | <ul><li>[Software Engineer - Frontend, Generative AI](https://scale.com/careers/4421770005)</li><li>[Security Engineer, Infrastructure](https://scale.com/careers/4430140005)</li><li>[Machine Learning Engineer, Federal](https://scale.com/careers/4281519005)</li></ul>   | San Francisco, CA; New York, NY | | 2024-06-12     |
-| Uber     | <ul><li>[Software Engineer II - iOS](https://www.uber.com/global/en/careers/list/130706/)</li><li>[Backend Software Engineer](https://www.uber.com/global/en/careers/list/131930/)</li><li>[Software Engineer II (Backend) - Airports](https://www.uber.com/global/en/careers/list/131319/)</li></ul>   | Seattle, Washington, San Francisco, California, Sunnyvale, California |   |2024-06-12     |
+| Robinhood     | <ul><li>[Software Engineer - Capacity Engineering and Analysis](https://boards.greenhouse.io/robinhood/jobs/5849383)</li><li>[Software Developer - Reliability](https://boards.greenhouse.io/robinhood/jobs/6022269)</li></ul>   |USA, Canada   | exposure with public clouds, ideally Amazon Web Services (AWS)   |      |
+| Scale AI     | <ul><li>[Software Engineer - Frontend, Generative AI](https://scale.com/careers/4421770005)</li><li>[Security Engineer, Infrastructure](https://scale.com/careers/4430140005)</li><li>[Machine Learning Engineer, Federal](https://scale.com/careers/4281519005)</li></ul>   | San Francisco, CA; New York, NY | |      |
+| Uber     | <ul><li>[Software Engineer II - iOS](https://www.uber.com/global/en/careers/list/130706/)</li><li>[Software Engineer II (Backend) - Airports](https://www.uber.com/global/en/careers/list/131319/)</li></ul>   | Seattle, Washington, San Francisco, California, Sunnyvale, California | Bachelor’s degree or equivalent in Computer Science, Engineering, Mathematics or related field OR 1-year full-time Software Engineering work experience  |     |
 | TikTok     | <ul><li>[Frontend Software Engineer, Ads Interface and Platform](https://careers.tiktok.com/position/7364169515393206565/detail)</li><li>[Software Engineer, Ads Interface and Platform](https://careers.tiktok.com/position/7255418075586038077/detail)</li><li>[Frontend Software Engineer - PGC, TikTok TV](https://careers.tiktok.com/position/7367179431762888986/detail)</li><li>[iOS Software Engineer, TikTok Photo and Text](https://careers.tiktok.com/position/7311510044636694821/detail)</li><li>[Android Software Engineer, TikTok - Social User and Relation - Los Angeles](https://careers.tiktok.com/position/7147791685337663780/detail)</li></ul>   | Multiple Locations |   |2024-06-12     |
-| Waabi     | <ul><li>[Software Engineer](https://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9)</li><li>[Security Engineer, Infrastructure](https://scale.com/careers/4430140005)</li><li>[Software Engineer, Web Tools](https://jobs.lever.co/waabi/19d19832-ab1c-4be5-8972-879f4fc2b1a8)</li></ul>   | Toronto, ON, San Francisco, CA, Remote Canada, Remote US | | 2024-06-12     |
-| Wayfair     | <ul><li>[Software Engineer I - Summer 2024](https://www.wayfair.com/careers/job/software-engineer-i---summer-----/6963112002)</li><li>[Associate Software Engineer, Storefront](https://www.wayfair.com/careers/job/associate-software-engineer--storefront/7479527002)</li></ul>   |  Austin, Texas, Boston, Massachusetts | | 2024-06-12     |
+| Waabi     | <ul><li>[Software Engineer](https://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9)</li><li>[Security Engineer, Infrastructure](https://scale.com/careers/4430140005)</li><li>[Software Engineer, Web Tools](https://jobs.lever.co/waabi/19d19832-ab1c-4be5-8972-879f4fc2b1a8)</li></ul>   | Toronto, ON, San Francisco, CA, Remote Canada, Remote US | | 2024-03-15     |
+| Wayfair     | <ul><li>[Associate Software Engineer, Storefront](https://www.wayfair.com/careers/job/associate-software-engineer--storefront/7479527002)</li></ul>   | Boston, Massachusetts | |      |
 | Whatnot     | <ul><li>[Software Engineer, Discovery (Search)](https://boards.greenhouse.io/whatnot/jobs/5154575004)</li><li>[Software Engineer, Ads](https://boards.greenhouse.io/whatnot/jobs/5131746004)</li></ul>   |  Multiple Locations | | 2024-06-12     |
 
