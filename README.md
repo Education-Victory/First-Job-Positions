@@ -20,12 +20,11 @@ It does not require you to have 4 years of work experience to apply, you only ne
 ### Position List
 
 
-| Company      | Role          | Location    |  Note                         | Updated Time   |
+| Company      | Role          | Location    |  Note                         | Release/Update Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
 | Amazon       | <ul><li>[Software Dev Engineer I, Redshift](https://amazon.jobs/zh/jobs/2636224/software-dev-engineer-i-redshift)</li><li>[Software Dev Engineer I, Redshift](https://amazon.jobs/zh/jobs/2649147/software-dev-engineer-i-redshift)</li></ul> | USA, Canada   |  earned a Master’s degree between May 2023 and September 2024  | 2024-06-07     |
-| Anthropic       | <ul><li>[Software Engineer, Anthropic Labs](https://boards.greenhouse.io/anthropic/jobs/4020134008)</li><li>[Software Engineer, UI](https://boards.greenhouse.io/anthropic/jobs/4023357008)</li></ul> |  Multiple Locations   |    | 2024-06-12     |
-| Apple       | <ul><li>[Software Engineer](https://jobs.apple.com/en-us/details/200518445/software-engineer)</li><li>[Software Engineer](https://jobs.apple.com/en-us/details/200548773/)</li><li>[Software Engineer](https://jobs.apple.com/en-us/details/200554677/)</li></ul> | Sunnyvale, California, Austin, Texas, Cupertino, California   |    | 2024-06-12     |
-| Athelas     | <ul><li>[Integration Engineer](https://www.athelas.com/careers?ashby_jid=3950c791-bc94-4601-ac61-51cdb5b53464)</li></ul> | Remote   |   | 2024-06-12     |
+| Anthropic       | <ul><li>[Software Engineer, Anthropic Labs](https://boards.greenhouse.io/anthropic/jobs/4020134008)</li><li>[Software Engineer, UI](https://boards.greenhouse.io/anthropic/jobs/4023357008)</li></ul> |  Multiple Locations   | "We encourage you to apply even if you do not believe you meet every single qualification."   | 2024-05-06     |
+| Apple       | <ul><li>[Software Engineer](https://jobs.apple.com/en-us/details/200518445/software-engineer)</li><li>[Software Engineer](https://jobs.apple.com/en-us/details/200548773/)</li><li>[Software Engineer](https://jobs.apple.com/en-us/details/200554677/)</li></ul> | Sunnyvale, California, Austin, Texas, Cupertino, California   |    | -     |
 | Autodesk     | <ul><li>[Software Engineer](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Georgia-USA---Remote/Software-Engineer_24WD79288)</li><li>[Software Development Manager, License Compliance](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Development-Manager--License-Compliance_24WD79067)</li></ul> | Multiple Locations |  | 2024-06-12     |
 | Bill     | <ul><li>[Software Engineer II - Embedded UX](https://www.bill.com/about-us/jobs?gh_jid=5134872004)</li></ul> | San Jose, CA   |   | 2024-06-12     |
 | Chewy     | <ul><li>[Software Engineer I](https://careers.chewy.com/us/en/job/5960373/Software-Engineer-I)</li></ul> | Boston, Massachusetts,   |   | 2024-06-12     |
