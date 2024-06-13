@@ -1,16 +1,25 @@
 # Entry-Level-Positions
 
-The positions listed here
+The position listed here **do not explicitly require professional software engineering experience (work experience) in job qualifications.**, You do not need several years of professional work experience to qualify. Relevant experience in software development, such as internships, projects, or academic work, is sufficient.
 
-**Do not explicitly require professional software engineering experience or work experience in job qualifications.**
+For example: 
 
-If you are a 2025 new graduate, you may want to explore [2025-New-Grad-Positions](https://github.com/Education-Victory/2025-New-Grad-Positions) repository specifically for more positions.
+> **Basic Qualifications**
 
-Feel free to submit issue or PR 😄
+> - Bachelor’s Degree in Computer Science, Electrical Engineering, or a related technical field.
+> - 3+ years of experience in mobile software development, with a strong emphasis on networking.
+> 
+> **Preferred Qualifications**
+
+> - Master’s Degree in Computer Science or a related field.
+> - 4+ years of professional mobile development experience, with at least 2 years focused on networking.
+
+It does not require you to have 4 years of work experience to apply, you only need 3 years of experience in software development.
+
 
 | Company      | Role          | Location    |  Note                         | Updated Time   |
 |--------------|---------------|-------------|-------------------------------|----------------|
-| Amazon       | <ul><li>[Software Dev Engineer I, Redshift](https://amazon.jobs/zh/jobs/2636224/software-dev-engineer-i-redshift)</li><li>[Software Dev Engineer I, Redshift](https://amazon.jobs/zh/jobs/2649147/software-dev-engineer-i-redshift)</li></ul> | USA, Canada   |    | 2024-06-12     |
+| Amazon       | <ul><li>[Software Dev Engineer I, Redshift](https://amazon.jobs/zh/jobs/2636224/software-dev-engineer-i-redshift)</li><li>[Software Dev Engineer I, Redshift](https://amazon.jobs/zh/jobs/2649147/software-dev-engineer-i-redshift)</li></ul> | USA, Canada   |  earned a Master’s degree between May 2023 and September 2024  | 2024-06-07     |
 | Anthropic       | <ul><li>[Software Engineer, Anthropic Labs](https://boards.greenhouse.io/anthropic/jobs/4020134008)</li><li>[Software Engineer, UI](https://boards.greenhouse.io/anthropic/jobs/4023357008)</li></ul> |  Multiple Locations   |    | 2024-06-12     |
 | Apple       | <ul><li>[Software Engineer](https://jobs.apple.com/en-us/details/200518445/software-engineer)</li><li>[Software Engineer](https://jobs.apple.com/en-us/details/200548773/)</li><li>[Software Engineer](https://jobs.apple.com/en-us/details/200554677/)</li></ul> | Sunnyvale, California, Austin, Texas, Cupertino, California   |    | 2024-06-12     |
 | Athelas     | <ul><li>[Integration Engineer](https://www.athelas.com/careers?ashby_jid=3950c791-bc94-4601-ac61-51cdb5b53464)</li></ul> | Remote   |   | 2024-06-12     |
