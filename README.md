@@ -1,6 +1,6 @@
 # Entry-Level-Positions
 
-### Intro
+## Intro
 The position listed here **do not explicitly require professional software engineering experience (work experience) in job qualifications.**, You do not need several years of professional work experience to qualify. Relevant experience in software development, such as internships, projects, or academic work, is sufficient.
 
 For example: 
@@ -17,7 +17,7 @@ For example:
 
 It does not require you to have 4 years of work experience to apply, you only need 3 years of experience in software development.
 
-### Position List
+## Position List
 
 
 | Company      | Role          | Location    |  Note                         | Release/Update Time   |
@@ -25,12 +25,11 @@ It does not require you to have 4 years of work experience to apply, you only ne
 | Amazon       | <ul><li>[Software Dev Engineer I, Redshift](https://amazon.jobs/zh/jobs/2636224/software-dev-engineer-i-redshift)</li><li>[Software Dev Engineer I, Redshift](https://amazon.jobs/zh/jobs/2649147/software-dev-engineer-i-redshift)</li></ul> | USA, Canada   |  earned a Master’s degree between May 2023 and September 2024  | 2024-06-07     |
 | Anthropic       | <ul><li>[Software Engineer, Anthropic Labs](https://boards.greenhouse.io/anthropic/jobs/4020134008)</li><li>[Software Engineer, UI](https://boards.greenhouse.io/anthropic/jobs/4023357008)</li></ul> |  Multiple Locations   | "We encourage you to apply even if you do not believe you meet every single qualification."   | 2024-05-06     |
 | Apple       | <ul><li>[Software Engineer](https://jobs.apple.com/en-us/details/200518445/software-engineer)</li><li>[Software Engineer](https://jobs.apple.com/en-us/details/200548773/)</li><li>[Software Engineer](https://jobs.apple.com/en-us/details/200554677/)</li></ul> | Sunnyvale, California, Austin, Texas, Cupertino, California   |    | -     |
-| Autodesk     | <ul><li>[Software Engineer](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Georgia-USA---Remote/Software-Engineer_24WD79288)</li><li>[Software Development Manager, License Compliance](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Development-Manager--License-Compliance_24WD79067)</li></ul> | Multiple Locations |  | 2024-06-12     |
-| Bill     | <ul><li>[Software Engineer II - Embedded UX](https://www.bill.com/about-us/jobs?gh_jid=5134872004)</li></ul> | San Jose, CA   |   | 2024-06-12     |
-| Chewy     | <ul><li>[Software Engineer I](https://careers.chewy.com/us/en/job/5960373/Software-Engineer-I)</li></ul> | Boston, Massachusetts,   |   | 2024-06-12     |
+| Autodesk     | <ul><li>[Software Engineer](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Georgia-USA---Remote/Software-Engineer_24WD79288)</li></ul> | Multiple Locations |  | 2024-06-12     |
+| Chewy     | <ul><li>[Software Engineer I](https://careers.chewy.com/us/en/job/5960373/Software-Engineer-I)</li></ul> | Boston, Massachusetts,   | Will also accept a Master’s degree and 0 years of experience.  | -     |
 | Confluent     | <ul><li>[Software Engineer](https://careers.confluent.io/jobs/14462382-software-engineer)</li></ul> | Austin, Texas   |   | 2024-06-12     |
-| Databricks     | <ul><li>[Software Engineer - Performance PhD Candidates](https://www.databricks.com/company/careers/engineering/software-engineer---performance-phd-candidates-7466498002)</li><li>[Software Engineer - Systems PhD Candidates](https://www.databricks.com/company/careers/engineering/software-engineer----systems-phd-candidates-6875433002)</li></ul> | Mountain View, California |   | 2024-06-12     |
-| DoorDash     | <ul><li>[Software Engineer, Simulation Infrastructure](https://careers.doordash.com/jobs/5514721)</li><li>[Software Engineer, iOS (All Teams)](https://careers.doordash.com/jobs/5630454)</li></ul> | San Francisco, CA   |   | 2024-06-12     |
+| Databricks     | <ul><li>[Software Engineer - Performance PhD Candidates](https://www.databricks.com/company/careers/engineering/software-engineer---performance-phd-candidates-7466498002)</li><li>[Software Engineer - Systems PhD Candidates](https://www.databricks.com/company/careers/engineering/software-engineer----systems-phd-candidates-6875433002)</li></ul> | Mountain View, California | PhD in databases or systems  | -     |
+| DoorDash     | <ul><li>[Software Engineer, Simulation Infrastructure](https://careers.doordash.com/jobs/5514721)</li><li>[Software Engineer, iOS (All Teams)](https://careers.doordash.com/jobs/5630454)</li></ul> | San Francisco, CA   | Strong C++ experience  | 2024-06-12     |
 | Fortinet     | <ul><li>[Software Development Engineer](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/15253/)</li><li>[iOS Mobile Software Engineer](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/14449/)</li><li>[Software Dev QA Engineer](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/15209/)</li></ul> | Sunnyvale, CA   |   | 2024-06-12     |
 | Headlands     | <ul><li>[Entry level software developer](https://www.headlandstech.com/careers/)</li></ul> | Multiple Locations   |   | 2024-06-12     |
 | Meta       | <ul><li>[Software Engineer, Systems ML - PyTorch Compiler / Performance (PhD)](https://www.metacareers.com/v2/jobs/2002504426814350/)</li><li>[Software Engineer - Camera Systems](https://www.metacareers.com/jobs/1387994975934026/)</li></ul> | Menlo Park, CA |    | 2024-06-12     |
