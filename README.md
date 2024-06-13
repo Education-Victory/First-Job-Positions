@@ -1,13 +1,13 @@
 # Entry-Level-Positions
 
 ## Intro
-The position listed here does not explicitly require professional software engineering experience (work experience) in the job qualifications. Relevant experience such as:
+The position listed here **does not explicitly require professional software engineering experience (work experience) in the job qualifications**. Relevant experience such as:
 
-- Internships: Multiple internships that cumulatively add up to the required experience.
-- Personal projects: Development and maintenance of your own mobile applications available on app stores with a substantial user base.
-- Open-source contributions: Significant contributions to well-known open-source mobile projects.
-- Freelance work: Independent mobile development projects for clients.
-- Contract work: Short-term contracts or consulting roles focused on mobile development.
+- **Internships**: Multiple internships that cumulatively add up to the required experience.
+- **Personal projects**: Development and maintenance of your own mobile applications available on app stores with a substantial user base.
+- **Open-source contributions**: Significant contributions to well-known open-source mobile projects.
+- **Freelance work**: Independent mobile development projects for clients.
+- **Contract work**: Short-term contracts or consulting roles focused on mobile development.
 
 may be considered equivalent experience.
 
