@@ -1,5 +1,6 @@
 # Entry-Level-Positions
 
+### Intro
 The position listed here **do not explicitly require professional software engineering experience (work experience) in job qualifications.**, You do not need several years of professional work experience to qualify. Relevant experience in software development, such as internships, projects, or academic work, is sufficient.
 
 For example: 
@@ -15,6 +16,8 @@ For example:
 > - 4+ years of professional mobile development experience, with at least 2 years focused on networking.
 
 It does not require you to have 4 years of work experience to apply, you only need 3 years of experience in software development.
+
+### Position List
 
 
 | Company      | Role          | Location    |  Note                         | Updated Time   |
@@ -44,3 +47,4 @@ It does not require you to have 4 years of work experience to apply, you only ne
 | Waabi     | <ul><li>[Software Engineer](https://jobs.lever.co/waabi/9bcf52fc-482e-4404-8399-2a90d63c86f9)</li><li>[Security Engineer, Infrastructure](https://scale.com/careers/4430140005)</li><li>[Software Engineer, Web Tools](https://jobs.lever.co/waabi/19d19832-ab1c-4be5-8972-879f4fc2b1a8)</li></ul>   | Toronto, ON, San Francisco, CA, Remote Canada, Remote US | | 2024-06-12     |
 | Wayfair     | <ul><li>[Software Engineer I - Summer 2024](https://www.wayfair.com/careers/job/software-engineer-i---summer-----/6963112002)</li><li>[Associate Software Engineer, Storefront](https://www.wayfair.com/careers/job/associate-software-engineer--storefront/7479527002)</li></ul>   |  Austin, Texas, Boston, Massachusetts | | 2024-06-12     |
 | Whatnot     | <ul><li>[Software Engineer, Discovery (Search)](https://boards.greenhouse.io/whatnot/jobs/5154575004)</li><li>[Software Engineer, Ads](https://boards.greenhouse.io/whatnot/jobs/5131746004)</li></ul>   |  Multiple Locations | | 2024-06-12     |
+
