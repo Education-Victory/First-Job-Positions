@@ -15,6 +15,9 @@ may be considered equivalent experience.
 
 | Company          | Role          | Location    |  Note                         | Update Time   |
 |------------------|---------------|-------------|-------------------------------|----------------|
+| Array Tech         | <ul><li>[Software Engineer I](https://recruit.hirebridge.com/v3/CareerCenter/v2/details.aspx?cid=8020&jid=687022&locvalue=1015)</li></ul> | Chandler, Arizona   |     |  2024-07-01    |
+| BECU         | <ul><li>[Software Developer](https://becu.wd1.myworkdayjobs.com/en-US/External/job/Remote-WA/Software-Developer_R-10469)</li></ul> | Remote US   |     |  2024-07-01    |
+| Reynolds and Reynolds            | <ul><li>[DevOps Site Reliability Engineer](https://www.reyrey.com/company/careers/job-openings/post/4583)</li></ul> | Houston, TX   |    | 2024-07-01     |
 | Wolters Kluwer            | <ul><li>[Associate Product Software Engineer - Full Stack](https://wk.wd3.myworkdayjobs.com/External/job/Associate-Product-Software-Engineer---Full-Stack_R0041655)</li></ul> | USA - Coppell, TX, USA - Wichita, KS   |    | 2024-06-28     |
 | Chewy            |  | Boston, Massachusetts,   | Closed   | 2024-06-28     |
 | Apple            | <ul><li>[Software Engineer](https://jobs.apple.com/en-us/details/200518445/software-engineer)</li><li>[Software Engineer](https://jobs.apple.com/en-us/details/200554677/)</li></ul> | Sunnyvale, California, Austin, Texas, Cupertino, California   |    |  2024-06-28    |
