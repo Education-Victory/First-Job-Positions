@@ -15,6 +15,8 @@ may be considered equivalent experience.
 
 | Company          | Role          | Location    |  Note                         | Update Time   |
 |------------------|---------------|-------------|-------------------------------|----------------|
+| BeaconFire Staffing Solutions       | <ul><li>[Java Software Developer](https://beaconfireinc.com/career/javasoftwaredeveloper-2/)</li></ul> | East Windsor, NJ |     |  2024-07-03    |
+| Belay Technologies         | <ul><li>[Junior Software Engineer](https://belaytechnologies.applytojob.com/apply/s3Yqfy8yQa/Junior-Software-Engineer)</li></ul> | Annapolis Junction, MD   |     |  2024-07-03    |
 | Array Tech         | <ul><li>[Software Engineer I](https://recruit.hirebridge.com/v3/CareerCenter/v2/details.aspx?cid=8020&jid=687022&locvalue=1015)</li></ul> | Chandler, Arizona   |     |  2024-07-01    |
 | BECU         | <ul><li>[Software Developer](https://becu.wd1.myworkdayjobs.com/en-US/External/job/Remote-WA/Software-Developer_R-10469)</li></ul> | Remote US   |     |  2024-07-01    |
 | Reynolds and Reynolds            | <ul><li>[DevOps Site Reliability Engineer](https://www.reyrey.com/company/careers/job-openings/post/4583)</li></ul> | Houston, TX   |    | 2024-07-01     |
