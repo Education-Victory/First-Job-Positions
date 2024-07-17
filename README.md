@@ -15,6 +15,7 @@ may be considered equivalent experience.
 
 | Company          | Role          | Location    |  Note                         | Update Time   |
 |------------------|---------------|-------------|-------------------------------|----------------|
+| Akuna Capital        |<ul><li>[Software Engineer (Entry-Level) - C++](https://akunacapital.com/job-details?gh_jid=6066182)</li></ul>  |     |    | 2024-07-17     |
 | Mastercard        |  |     |  Closed  | 2024-07-16     |
 | Meta             | <ul><li>[Software Engineer, Systems ML - PyTorch Compiler / Performance (PhD)](https://www.metacareers.com/v2/jobs/2002504426814350/)</li><li>[Software Engineer, Product](https://www.metacareers.com/jobs/1040186507528044/)</li></ul> | Menlo Park, CA |    |   2024-07-16   |
 | Google             | <ul><li>[Early Career Software Engineer, AI/Machine Learning](https://www.google.com/about/careers/applications/jobs/results/140166094567416518-early-career-software-engineer/)</li></ul> | Multiple Locations |    |   2024-07-15   |
