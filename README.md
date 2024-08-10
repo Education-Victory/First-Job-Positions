@@ -15,6 +15,8 @@ may be considered equivalent experience.
 
 | Company          | Role          | Location    |  Note                         | Update Time   |
 |------------------|---------------|-------------|-------------------------------|----------------|
+| Gainwell             | <ul><li>[Early Career C#/ C. Net /Java Developer](https://app.ripplematch.com/v2/public/job/b3795c4e/details)</li></ul> | Multiple Locations |    |   2024-08-10   |
+| Medpace             | <ul><li>[Junior Software Engineer](https://careers.medpace.com/jobs/9755?lang=en-us)</li></ul> | Denver, Colorado |    |   2024-08-10   |
 | OMNIVISION             | <ul><li>[Applications Software Engineer](https://jobs.jobvite.com/ovt/job/o15ftfwy)</li></ul> | Irvine, California |    |   2024-08-06   |
 | Mthree             | <ul><li>[Junior Software Engineer](https://job-boards.greenhouse.io/wileyedgerecruitingportal/jobs/4374347006)</li></ul> | USA |    |   2024-08-02   |
 | Autodesk             | <ul><li>[Software Engineer, Data](https://autodesk.wd1.myworkdayjobs.com/Ext/job/San-Francisco-CA-USA/Software-Engineer--Data_24WD79318-1)</li></ul> | Multiple Locations |    |   2024-07-30   |
