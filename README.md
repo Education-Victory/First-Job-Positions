@@ -15,6 +15,8 @@ may be considered equivalent experience.
 
 | Company          | Role          | Location    |  Note                         | Update Time   |
 |------------------|---------------|-------------|-------------------------------|----------------|
+| Aechelon Technology             | <ul><li>[Junior Runtime Software Engineer](https://jobs.lever.co/aechelon/140ba1c5-5ecc-4bb9-90ad-73ae97c796cd/)</li></ul> | Overland Park, Kansas |    |   2024-08-14   |
+| CDK Global             | <ul><li>[Associate Software Engineer](https://careers.cdkglobal.com/job/20214012/associate-software-engineer-austin-tx/)</li></ul> | Austin, TX |    |   2024-08-14   |
 | Gainwell             | <ul><li>[Early Career C#/ C. Net /Java Developer](https://app.ripplematch.com/v2/public/job/b3795c4e/details)</li></ul> | Multiple Locations |    |   2024-08-10   |
 | Medpace             | <ul><li>[Junior Software Engineer](https://careers.medpace.com/jobs/9755?lang=en-us)</li></ul> | Denver, Colorado |    |   2024-08-10   |
 | OMNIVISION             | <ul><li>[Applications Software Engineer](https://jobs.jobvite.com/ovt/job/o15ftfwy)</li></ul> | Irvine, California |    |   2024-08-06   |
