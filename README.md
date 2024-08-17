@@ -15,6 +15,9 @@ may be considered equivalent experience.
 
 | Company          | Role          | Location    |  Note                         | Update Time   |
 |------------------|---------------|-------------|-------------------------------|----------------|
+| Cadence             | <ul><li>[Software Engineer, Place & Route](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Engineer--Place---Route_R46731-2)</li></ul> |AUSTIN |    |   2024-08-17   |
+| One Finance             | <ul><li>[Software Development Engineer in Test (SDET)](https://jobs.ashbyhq.com/oneapp/3d84d61c-1a09-4606-9a94-9bb32d4c3527)</li></ul> | United States (Remote) |    |   2024-08-17   |
+| Torch Technologies             | <ul><li>[Entry Level Model and Simulation Software Developer](https://torchtechnologies.hua.hrsmart.com/hr/ats/Posting/view/6409)</li></ul> | Alabama - Huntsville - Huntsville, AL 35802 US |    |   2024-08-17   |
 | Aechelon Technology             | <ul><li>[Junior Runtime Software Engineer](https://jobs.lever.co/aechelon/140ba1c5-5ecc-4bb9-90ad-73ae97c796cd/)</li></ul> | Overland Park, Kansas |    |   2024-08-14   |
 | CDK Global             | <ul><li>[Associate Software Engineer](https://careers.cdkglobal.com/job/20214012/associate-software-engineer-austin-tx/)</li></ul> | Austin, TX |    |   2024-08-14   |
 | Gainwell             | <ul><li>[Early Career C#/ C. Net /Java Developer](https://app.ripplematch.com/v2/public/job/b3795c4e/details)</li></ul> | Multiple Locations |    |   2024-08-10   |
