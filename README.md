@@ -15,6 +15,8 @@ may be considered equivalent experience.
 
 | Company          | Role          | Location    |  Note                         | Update Time   |
 |------------------|---------------|-------------|-------------------------------|----------------|
+| Hologic             | <ul><li>[Systems Software Test Engineer](https://careers.hologic.com/search/300000358864445/systems-software-test-engineer?utm_medium=campaign)</li></ul> | San Diego, CA, United States |    |   2024-08-20   |
+| GE             | <ul><li>[Software Engineering Specialist](https://jobs.gecareers.com/global/en/job/GE11GLOBALR3777967EXTERNALENGLOBAL/Software-Engineering-Specialist)</li></ul> |Bothell, Washington |    |   2024-08-20   |
 | Cadence             | <ul><li>[Software Engineer, Place & Route](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/Software-Engineer--Place---Route_R46731-2)</li></ul> |AUSTIN |    |   2024-08-17   |
 | One Finance             | <ul><li>[Software Development Engineer in Test (SDET)](https://jobs.ashbyhq.com/oneapp/3d84d61c-1a09-4606-9a94-9bb32d4c3527)</li></ul> | United States (Remote) |    |   2024-08-17   |
 | Torch Technologies             | <ul><li>[Entry Level Model and Simulation Software Developer](https://torchtechnologies.hua.hrsmart.com/hr/ats/Posting/view/6409)</li></ul> | Alabama - Huntsville - Huntsville, AL 35802 US |    |   2024-08-17   |
