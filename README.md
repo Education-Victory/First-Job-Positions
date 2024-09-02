@@ -15,6 +15,7 @@ may be considered equivalent experience.
 
 | Company          | Role          | Location    |  Note                         | Update Time   |
 |------------------|---------------|-------------|-------------------------------|----------------|
+| Worldpay | <ul><li>[Junior Snowflake Data Platform Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Junior-Snowflake-Data-Platform-Engineer_JR0601382)</li></ul> | US Anywhere |    |   2024-09-02  |
 | Booz allen | <ul><li>[Software Engineer, Junior](https://careers.boozallen.com/careers/JobDetail?jobId=101205)</li></ul> | San Diego , California , USA |    |   2024-08-26  |
 | Waystar             | <ul><li>[Application Engineer (PHP)](https://careers.waystar.com/atlanta-ga/application-engineer-php/0AAA537348EE4DED912B3709B5B41E1D/job/)</li></ul> | Atlanta, GA |    |   2024-08-24  |
 | Hologic             | <ul><li>[Systems Software Test Engineer](https://careers.hologic.com/search/300000358864445/systems-software-test-engineer?utm_medium=campaign)</li></ul> | San Diego, CA, United States |    |   2024-08-20   |
