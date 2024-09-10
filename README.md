@@ -15,6 +15,8 @@ may be considered equivalent experience.
 
 | Company          | Role          | Location    |  Note                         | Update Time   |
 |------------------|---------------|-------------|-------------------------------|----------------|
+| Fetch | <ul><li>[iOS Software Engineer](https://boards.greenhouse.io/fetchrewards/jobs/6004245003)</li></ul> | United States (Remote) |    |   2024-09-10  |
+| SAIC | <ul><li>[Software Safety Engineer](https://jobs.saic.com/jobs/14885345-software-safety-engineer)</li></ul> | STAFFORD, VA, United States |    |   2024-09-10  |
 | Worldpay | <ul><li>[Junior Snowflake Data Platform Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Junior-Snowflake-Data-Platform-Engineer_JR0601382)</li></ul> | US Anywhere |    |   2024-09-02  |
 | Booz allen | <ul><li>[Software Engineer, Junior](https://careers.boozallen.com/careers/JobDetail?jobId=101205)</li></ul> | San Diego , California , USA |    |   2024-08-26  |
 | Waystar             | <ul><li>[Application Engineer (PHP)](https://careers.waystar.com/atlanta-ga/application-engineer-php/0AAA537348EE4DED912B3709B5B41E1D/job/)</li></ul> | Atlanta, GA |    |   2024-08-24  |
