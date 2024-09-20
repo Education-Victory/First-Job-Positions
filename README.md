@@ -15,6 +15,10 @@ may be considered equivalent experience.
 
 | Company          | Role          | Location    |  Note                         | Update Time   |
 |------------------|---------------|-------------|-------------------------------|----------------|
+| SkillStorm | <ul><li>[Entry Level Software Developer](https://careers.skillstorm.com/jobs/entry-level-software-developer-41708)</li></ul> | USA |    |   2024-09-20  |
+| KBR | <ul><li>[Jr Software Developer](https://careers.kbr.com/us/en/job/KIVKBRUSR2094798EXTERNALENUS/Jr-Software-Developer)</li></ul> | Colorado Springs, Colorado |    |   2024-09-20  |
+| CGI | <ul><li>[Software Developer - Entry Level](https://cgi.njoyn.com/corp/xweb/xweb.asp?clid=21001&page=jobdetails&jobid=J0824-1734&BRID=1149839&SBDID=943)</li></ul> | United States, Virginia, Lebanon |    |   2024-09-20  |
+| L3harris | <ul><li>[Associate, Software Engineer (Salt Lake City, UT)](https://careers.l3harris.com/en/job/-/-/4832/70089467600)</li></ul> | Salt Lake City, UT |    |   2024-09-20  |
 | Fetch | <ul><li>[iOS Software Engineer](https://boards.greenhouse.io/fetchrewards/jobs/6004245003)</li></ul> | United States (Remote) |    |   2024-09-10  |
 | SAIC | <ul><li>[Software Safety Engineer](https://jobs.saic.com/jobs/14885345-software-safety-engineer)</li></ul> | STAFFORD, VA, United States |    |   2024-09-10  |
 | Worldpay | <ul><li>[Junior Snowflake Data Platform Engineer](https://worldpay.wd5.myworkdayjobs.com/Worldpay_External_Careers_Site/job/US-OH-CIN-8500/Junior-Snowflake-Data-Platform-Engineer_JR0601382)</li></ul> | US Anywhere |    |   2024-09-02  |
