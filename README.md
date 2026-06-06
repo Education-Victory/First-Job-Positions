@@ -11,6 +11,11 @@ The position listed here **does not explicitly require professional software eng
 
 may be considered equivalent experience.
 
+
+## Related Canadian Student Job Resources
+
+- [Hanzilla Jobs](https://jobs.hanzilla.co/new-grad/) - Free daily-updated Canadian student and recent-grad jobs board for new-grad, junior, internship, co-op, and entry-level roles across software, data/AI, engineering, finance, business, sciences, arts, and related fields.
+
 ## Position List
 
 | Company          | Role          | Location    |  Note                         | Update Time   |
